@@ -12,7 +12,7 @@ A Python-based CLI tool designed to track daily robotics and AI engineering task
 
 Clone the repository to your local machine:
 
-    git clone https://github.com/YOUR_GITHUB_USERNAME/ntu-internship-logger.git
+    git clone https://github.com/YOUR_GITHUB_USERNAME/internship-logger.git
     cd ntu-internship-logger
 
 ## Setup
