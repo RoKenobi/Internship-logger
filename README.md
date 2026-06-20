@@ -1,4 +1,4 @@
-# NTU Internship Logger
+# Internship Logger
 
 A Python-based CLI tool designed to track daily robotics and AI engineering tasks, bugs, and solutions. It dynamically queries for missing context and automatically appends the data to local markdown files for academic reporting.
 
